@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.box{
+    margin: 20px 10px 20px 10px;
+    background-color: rgb(89, 89, 89);
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+    padding-left: 10px;
+}
+
+.titulo{
+    color: white;
+    font-weight: 700;
+    margin: 20px 10px 15px 10px;
+    font-size: 20px;
+    padding-top: 15%;
+}
+
+.parrafo{
+    color: white;
+}
+
+.precio{
+    color: white;
+    font-weight: 700;
+    
+}
+
+.valor{
+    color: gold;
+    text-shadow: 3px 0px 3px gold;
+}
+
+.button{
+    background-color: goldenrod;
+    border: dashed 1px gold;
+}
+
